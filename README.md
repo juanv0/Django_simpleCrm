@@ -1,0 +1,2 @@
+# simpleCrm
+Django Project
